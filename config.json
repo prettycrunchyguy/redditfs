@@ -1,0 +1,10 @@
+{
+  "username":"spez",
+  "password":"notspezpasswordithink",
+  "appId":"create app id with reddit.com/prefs/apps",
+  "appSecret":"generated secret",
+  "port":3000,
+  "subreddit":"createurownsubreddit",
+  "appName":"CrunchyFS",
+  "website":"https://github.com/prettycrunchyguy/redditfs"
+}
